@@ -185,7 +185,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             const whatsAppNumber = '201000000000'; // Replace with your WhatsApp number
-            let message = `*طلب جديد من قهوة عمي شاهين*\n\n`;
+            let message = `*طلب جديد من قهوه صاحب السعاده  *\n\n`;
             message += `*الاسم:* ${name}\n`;
             message += `*رقم الهاتف:* ${phone}\n`;
             message += `*العنوان:* ${address}\n\n`;
